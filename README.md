@@ -1,2 +1,3 @@
 # KirigizaSoftware
-Điều khoản này được viết bằng tiếng Việt,bạn không hiểu có thể dùng Google Translete
+1.Đây là các mã nguồn mở an toàn,bạn có thể download về và sử dụng 
+2.Đây là các mã nguồn phần mềm cho Windows,bạn vẫn có thể dùng ĐT mà download 
